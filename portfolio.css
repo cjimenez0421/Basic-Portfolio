@@ -1,0 +1,130 @@
+body{
+    background-color: gold;
+}
+
+#name {
+    padding: 30px;
+    color: black;
+    background-color: gold;
+    margin-left: 15px;
+    font-weight: 800;
+
+}
+
+#navbarText {
+    margin-left: 55%;
+}
+
+#navbar {
+    padding-left: 100px;
+    border-bottom: 2px solid white; 
+    background-color: black !important;
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
+
+.navbar-toggler-icon {
+    background-color: gold !important;
+}
+
+nav a {
+    display: inline-block;
+    padding-left: 15px;
+    margin-left: 15px;
+    line-height: 18px;
+    color: #999;
+    text-decoration: none;
+    border-left: 1px solid #efefef;
+}
+
+.nav-link {
+    color: gold !important;
+}
+
+.row {
+    float: left;
+    clear: both;
+}
+
+
+.container {
+    margin-top: 20px;
+    padding: 30px;
+    color: black;
+    clear: both;
+}
+
+.container-2 {
+    /* width: 92.5%; */
+    margin-top: 20px;
+    margin-left: 50px;
+    clear: both;
+}
+
+.main-section {
+    float: left;
+    width: 100%;
+    max-width: 960px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: black;
+    border: 1px solid white;
+}
+
+.class-md-4 {
+    padding: 40px;
+}
+
+h1{
+    color: black;
+    font-weight: 750;
+}
+
+h2 {
+    color: gold;
+}
+
+p  {
+    color: gold;
+}
+
+#portfolio {
+    color: black !important;
+}
+
+#myimage {
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+}
+
+.card-text {
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    background: gold;
+    border-bottom: 0;
+    border: 1px solid white;
+}
+
+#footer {
+    clear: both;
+    color: gold;
+    background-color: black;
+    z-index:1000;
+}
+
+#footer2 {
+    position: absolute;
+    width: 100%;
+    clear: both;
+    color: gold;
+    background-color: black;
+    z-index:1000;
+    bottom: 0;
+}
